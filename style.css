@@ -1,0 +1,116 @@
+body{
+    margin: 0;
+    font-family: 'Poppins', sans-serif;
+}
+#page-links{
+    color: white;
+    background-color: black;
+    width: 100%;
+    float: left;
+    margin: 0;
+    height: 20px;
+}
+a{
+    text-decoration: none;
+    color: white;
+}
+p a{
+    color: blue;
+    text-decoration: underline;
+}
+section{
+    height: 620px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+#icon{
+    font-family: 'Lobster', cursive;
+    color:rgb(250, 0, 137);
+    font-size: 40px;
+}
+h1{
+    font-size: 40px;
+    font-weight: bold;
+    margin: 0px;
+}
+#healthy{
+    color: orange;
+}
+.half-width{
+    width: 40%;
+    float: left;
+    margin-left: 3%;
+    margin-right: 3%;
+    padding-left: 2%;
+    padding-right: 2%;
+}
+.half-width img{
+    width: 80%;
+}
+.button{
+    text-decoration: none;
+    background-image: linear-gradient(45deg, rgb(139, 18, 139), orange);
+    padding: 10px 40px;
+    border-radius: 20px;
+    color: white;
+    font-weight: 700;
+    width: 120px;
+    text-align: center;
+    font-size: 20px;
+}
+#middle-section{
+    background-image: url("images/bg.jpg");
+    background-repeat: no-repeat;
+    background-position: left;
+}
+#bottom-section{
+    text-align: center;
+    padding: 20px;
+}
+.recipe{
+    width: 30%;
+    float: left;
+    margin-left: 1%;
+    margin-right: 1%;
+    padding-left: 0.5%;
+    padding-right: 0.5%;
+    box-shadow: 5px 5px 40px gray;
+    padding-top: 20px;
+    height: auto;
+    border-radius: 20px;
+}
+.recipe img{
+    width: 90%;
+    border-radius: 20px;
+}
+#social-media{
+    height: 300px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+#social{
+    width: 93%;
+    float: left;
+    margin-left: 3%;
+    margin-right: 3%;
+    padding: 20px;
+    box-shadow: 5px 5px 40px gray;
+    height: 100px;
+    border-radius: 20px;
+}
+
+footer{
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+#under-construction{
+    text-align: center;
+    color: teal;
+}

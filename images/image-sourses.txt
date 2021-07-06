@@ -1,0 +1,35 @@
+Images are downloaded from the following websites:
+
+icon-food-ninga.png
+Link: https://www.flaticon.com/free-icon/feeding_4108935
+
+woman-cooking.jpg
+Link: https://www.freepik.com/free-photo/beautiful-young-woman-cooking-using-digital-tablet-kitchen_1624309.htm#page=1&query=food%20model&position=28
+
+breakfast-woman.jpg
+Link: https://www.freepik.com/free-photo/cheerful-young-woman-eating-corn-flakes_7727513.htm#page=1&query=health%20eating%20lady&position=9
+
+eat-healthy.jpg
+Link: https://www.freepik.com/search?dates=any&format=search&page=1&query=healthy%20food&selection=1&sort=popular
+
+italian-salad.jpg
+Link: https://www.freepik.com/free-photo/fresh-italian-salad-antipasto-called-caprese-with-buffalo-mozzarella-sliced-tomatoes-basil-with-olive-oil-ingredients-vegetarian-caprese-salad-italian-food-top-view-rustic-style_14628381.htm#page=1&query=italian%20salad%20caprese&position=6
+
+turkish-kebab.jpg
+Link: https://www.freepik.com/free-photo/turkish-arabic-traditional-ramadan-mix-kebab-plate-kebab-adana-chicken-lamb-beef-lavash-bread-with-sauce-top-view_6677509.htm#page=1&query=chicken%20skewers&position=46
+
+salmon.jpg
+Link: https://www.freepik.com/free-photo/baked-salmon-garnished-with-asparagus-tomatoes-with-herbs_7122731.htm#page=1&query=salmon&position=9
+
+youtube.png
+Link: https://www.flaticon.com/free-icon/youtube_1384060?term=youtube&page=1&position=1&page=1&position=1&related_id=1384060&origin=style
+
+instagram.png
+Link: https://www.flaticon.com/free-icon/instagram_2111463?term=instagram%20logo&page=1&position=1&page=1&position=1&related_id=2111463&origin=style
+
+dribbble.png
+Link: https://www.flaticon.com/free-icon/dribbble_733544?term=dribbble%20logo&page=1&position=2&page=1&position=2&related_id=733544&origin=style
+
+under-construction.jpg
+Link: https://www.freepik.com/free-vector/site-construction-hook-holds-sign_6589391.htm#page=1&query=under%20construction&position=19
+
